@@ -1,0 +1,29 @@
+html
+{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background: rgb(36,0,28);
+    background: linear-gradient(90deg, rgba(36,0,28,1) 0%, rgba(64,7,148,1) 26%, rgba(9,105,121,1) 66%, rgba(5,159,165,1) 78%, rgba(5,163,111,1) 100%, rgba(0,212,255,1) 100%); 
+}
+
+
+.button 
+{
+	background-color: orangered;
+	border: none;
+	color: white;
+	padding: 1rem;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 1rem;
+	margin: 4px 2px;
+    border-radius: 2rem;
+}
+
+p
+{
+    font-size: 25px;
+    color: white;
+}
+
